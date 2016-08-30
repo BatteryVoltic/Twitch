@@ -3,7 +3,7 @@
 My twitch channel is PG, which means friends, family, and children can sit around to enjoy the game play that happens and relax.
 
 ###Social
-I do have [Twitter](twitter.com/Battery3996), [Facebook](Insert Link), [Player.me](Player.me/Battery3996), [Youtube](youtube.com/battery3996), and [Twitch](twitch.tv/Battery3996)
+I do have [Twitter](https://twitter.com/Battery3996), [Facebook](https://Insert Link), [Player.me](https://Player.me/Battery3996), [Youtube](https://youtube.com/battery3996), and [Twitch](https://twitch.tv/Battery3996)
 
 
 
