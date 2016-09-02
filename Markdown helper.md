@@ -27,7 +27,7 @@ Text attributes _italic_, *italic*, __bold__, **bold**, `monospace`.
 code text
 ```
 
-Some text with [a link][1] and
+Some text with [link][1] and
 another [link][2].
 
 | Task           | Time required | Assigned to   | Current Status | Finished | 
